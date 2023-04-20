@@ -10,7 +10,7 @@ Data aquired from the source includes 4 year information on orders, products, cu
 
 ## Data Manipulation
 
-The purpose of this project was to create and analyse compelling dashboards with advanced calculations, filters and design features. Data cleaning and manipulation process found no null, redundant or improper formatting. [This jupyter] file contains the brief statistical description and manipulation process.
+The purpose of this project was to create and analyse compelling dashboards with advanced calculations, filters and design features. Data cleaning and manipulation process found no null, redundant or improper formatting. [This jupyter](Untitled.ipynb) file contains the brief statistical description and manipulation process.
 
 ## Analysis and Designing
 
