@@ -43,7 +43,7 @@ Summarises the daily sales and most recent orders list.
 This dashboard changes values and can be filtered on regions - Central, East, South and West by selecting from the left pane. Using Alt + right mouse click on the button maximises the orders list. Hovering on the trends and pie chart provides more information.
 
 <p align="center">
-  <img src="graphics/Dash1.png">
+  <img src="graphics/D1.png">
 </p>
 
 * Details - 
@@ -53,7 +53,7 @@ Provides Self-explanatory and interative high-level details about sales, profit 
 This dashboard can be filtered on region and category/sub-category of products. The pink box reflects profit margin on each type of sub-category. By clicking on the category/sub-category name, the dashboard can be filtered.
 
 <p align="center">
-  <img src="graphics/Dash2.png">
+  <img src="graphics/D2.png">
 </p>
 
 ## Key findings and recommendations
