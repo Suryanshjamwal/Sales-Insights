@@ -48,7 +48,7 @@ This dashboard changes values and can be filtered on regions - Central, East, So
 
 * Details - 
 
-Provides Self-explanatory and interactive high-level details about sales, profit and customer averages.
+Shows Self-explanatory and interactive high-level details of sales, profit and customer averages.
 
 This dashboard can be filtered on region and category/sub-category of products. The pink box reflects profit margin on each type of sub-category. By clicking on the category/sub-category name, the dashboard can be adjusted.
 
@@ -70,9 +70,9 @@ This dashboard can be filtered on region and category/sub-category of products. 
 
 * More sales doesn't necessarily mean more profit which is true conversely as well. Trends of which can be seen on the interpretation of profit on quantity. This obscure disparity is a substantial effect of cumulative deductions from expenses, costs, and taxes.
 
-* To improve performance of the store, invest on marketing of high profit margin products as more sales is not the always the way to go. 
+* To improve performance of the store, invest on marketing high profit margin products as more sales is not the always the way to go. 
 
-* Better turnover can be achieved by emphasis on High ticket (low deductions and high profit margin) products. For low ticket products, focus more on reducing costs and taxes.
+* Better turnover can be achieved by emphasis on High ticket (low deductions and high profit margin) products. For low ticket products, selling products inducing lower costs and taxes.
 
 
 
