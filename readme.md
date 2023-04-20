@@ -2,6 +2,10 @@
 
 This repository contains a sales insight dashboard for a retail store. The dashboard provides visualizations and to gain insights into sales performance, customer behavior, and product trends. The dashboard is built using Tableau. 
 
+<p align="center">
+  <img src="graphics/main.png">
+</p>
+
 ## Data Source
 
 The [dataset](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) used is of a sample retail superstore fetched from Tableau's community section.
