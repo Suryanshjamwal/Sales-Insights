@@ -48,7 +48,7 @@ This dashboard changes values and can be filtered on regions - Central, East, So
 
 * Details - 
 
-Shows Self-explanatory and interactive high-level details of sales, profit and customer averages.
+Shows Self-explanatory and interactive high-level details of sales, profit and customer averages. Profit and sales interpretation is adjustable on a daily, monthly, quaterly and yearly basis.
 
 This dashboard can be filtered on region and category/sub-category of products. The pink box reflects profit margin on each type of sub-category. By clicking on the category/sub-category name, the dashboard can be adjusted.
 
