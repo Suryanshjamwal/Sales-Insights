@@ -4,7 +4,7 @@ This repository contains a sales insight dashboard for a retail store. The dashb
 
 ## Data Source
 
-The dataset used is of a sample retail superstore from Tableau's community section. Link - [salesDataset](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+The [dataset](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) used is of a sample retail superstore fetched from Tableau's community section.
 
 Data aquired from the source includes 4 year information on orders, products, customers, revenue, profit, location etc. The spreadsheet has 9995 order entries of 5004 distinct customers. 
 
